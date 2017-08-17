@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>name.codemax.mininject</groupId>
     <artifactId>mininject</artifactId>
-    <version>0.5-SNAPSHOT</version>
+    <version>0.5</version>
     <packaging>jar</packaging>
 
     <name>MinInject</name>
